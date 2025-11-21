@@ -1,0 +1,3 @@
+Run Powershell as admin
+Navigate to this folder
+powershell -executionpolicy bypass .\SignToolGUI.ps1
